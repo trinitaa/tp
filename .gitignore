@@ -1,1 +1,7 @@
-# Created by .ignore support plugin (hsz.mobi)
+
+/back/.php_cs.cache
+/back/composer.lock
+/back/phpcbf.phar
+/back/phpcs.phar
+/back/php-cs-fixer-v2.phar
+/back/.idea/
